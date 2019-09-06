@@ -7,4 +7,10 @@ public class SoccerCoach implements Coach {
 		return "Scored two goals today!";
 	}
 
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
